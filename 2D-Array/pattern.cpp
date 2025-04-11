@@ -30,15 +30,33 @@ int main()
 
     // Question 1
 
-        for (i = 41; i <= 45; i++)
+        // for (i = 41; i <= 45; i++)
+        // {
+        //     for (j = 41; j <= i; j++)
+        //     {
+        //         cout<<j <<"  ";
+        //     }
+        //     cout<<endl;
+            
+        // }
+
+
+    // Question 2
+
+        int num=11;
+        int row=4;
+
+        for (i = 1; i <= row; i++)
         {
-            for (j = 41; j <= i; j++)
+            for (j = 1; j <= i; j++)
             {
-                cout<<j <<"  ";
+                cout<<num<<"  ";
+                num++;
             }
             cout<<endl;
             
         }
+        
         
 
 
