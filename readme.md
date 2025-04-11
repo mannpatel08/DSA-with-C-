@@ -22,12 +22,6 @@ Welcome to my collection of beginner-friendly C++ projects! These small, focused
 - 🔸 **User-defined Functions** – Clean, modular coding
 - 🔸 **Recursion** – Factorial, Fibonacci, and more 🔁
 
-### 🔹 File Handling
-- 🔸 **Read/Write Files** – Basics of working with text files 📄
-
-### 🔹 Sorting & Searching
-- 🔸 **Bubble Sort, Selection Sort** – Classic sorting algorithms
-- 🔸 **Linear & Binary Search** – Finding elements like a pro 🔍
 
 ---
 
@@ -35,8 +29,8 @@ Welcome to my collection of beginner-friendly C++ projects! These small, focused
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cpp-mini-projects.git
+   git clone https://github.com/mannpatel08/DSA-with-C-.git
 
-2. Navigate into the folder:
-
-   cd cpp-mini-projects
+2.  Navigate into the folder:
+    ```bash
+    cd cpp-mini-projects
