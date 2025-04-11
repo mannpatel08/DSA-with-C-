@@ -33,4 +33,9 @@ Welcome to my collection of beginner-friendly C++ projects! These small, focused
 
 2.  Navigate into the folder:
     ```bash
-    cd cpp-mini-projects
+    cd DSA-with-C-
+
+3.  Compile any project using g++:
+    ```bash
+    g++ path/to/your/file.cpp -o output
+    /output
