@@ -41,7 +41,7 @@ int main()
 
     
 // print diagonal elements
-    cout<<"print broundry elements : "<<endl;
+    cout<<"print diagonal elements : "<<endl;
 
     for (i = 0; i < row_size; i++)
     {
