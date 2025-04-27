@@ -11,7 +11,7 @@ class studant
 
     public:
         // Default Constructor
-        studant()
+        studant() 
         {
             cout<<"Enter Your Grid : ";  cin>>this->grid;
             cout<<"Enter Your Name : ";  cin>>this->name;
